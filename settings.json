@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PaternosBot",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Normal Bir Patatesim Ben",
-        "PotatoZenX Kanalina Abone Ol!",
-        "Yeni Video Yakinda Kacirmamak Icin PotatoZenX Kanalina Abone Ol!"
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
