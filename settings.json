@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "Ben Bir Oyuncuyum",
-        "/tellraw Video [{"text":"PotatoZenX Youtube Kanalina Abone Olabilirsin!","color":"gold"}]",
-        "/tellraw Video [{"text":"Yeni Video Yakinda Kacirmamak Icin PotatoZenX Youtube Kanalina Abone Olabilirsin!","color":"gold"}]"
+        "/tellraw @a [{"text":"PotatoZenX Youtube Kanalina Abone Olabilirsin!","color":"gold"}]",
+        "/tellraw @a [{"text":"Yeni Video Yakinda Kacirmamak Icin PotatoZenX Youtube Kanalina Abone Olabilirsin!","color":"gold"}]"
       ]
     },
     "chat-log": true,
