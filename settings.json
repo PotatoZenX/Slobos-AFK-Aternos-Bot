@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Ben Bir Oyuncuyum",
+        "/tellraw Video [{"text":"PotatoZenX Youtube Kanalina Abone Olabilirsin!","color":"gold"}]",
+        "/tellraw Video [{"text":"Yeni Video Yakinda Kacirmamak Icin PotatoZenX Youtube Kanalina Abone Olabilirsin!","color":"gold"}]"
       ]
     },
     "chat-log": true,
